@@ -1,0 +1,15 @@
+/* css */
+body{
+	background:rgba(51,46,232,.4);
+	font-family: arial;
+}
+h1{
+	color:#AEF4FF;
+	color:rgba(174,244,255,.3);
+}
+p{
+	color:#333333;
+}
+hr{
+	border-color:#1702AF;
+}	
