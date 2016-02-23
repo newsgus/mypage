@@ -1,4 +1,9 @@
 /* css */
+/* Website: My Programming Site v.1; 
+Author: Gustavo Martínez
+*/
+
+
 body{
 	background:rgba(51,46,232,.4);
 	font-family: arial;
@@ -8,13 +13,28 @@ h1{
 	color:rgba(174,244,255,.3);
 	font-family:Tahoma,Verdana,
 	Segoe,sans-serif;
+	text-align: center;
 
 }
 p{
 	color:#333333;
 	font-family:"Comic Sans", georgia,
 	"Times New Roman";
+	font-size: 18px;
+	text-align:center; 
 }
 hr{
 	border-color:#1702AF;
 }	
+
+#content{
+	width:400px;
+	border-width:2px;
+	border-color:#000;
+	border-style:solid;
+	background-color:rgba(31,31,31,.4);
+	margin:50px auto 0 auto;
+	padding:20px;
+	border-radius:20%;
+	overflow:hidden;
+}
